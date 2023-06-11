@@ -1,0 +1,20 @@
+{
+  "name": "rentalcars",
+  "version": "1.0.0",
+  "description": "Rental Cars Website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Roxana Daniela Baidoc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
